@@ -1,3 +1,5 @@
+Please note: this repository has been archived, the code and development continues in the [mirage-bootvar](https://github.com/mirage/mirage-bootvar) repository.
+
 ## mirage-bootvar-xen -- library for reading MirageOS unikernel boot parameters in Xen
 
 [![Build Status](https://travis-ci.org/mirage/mirage-bootvar-xen.svg)](https://travis-ci.org/mirage/mirage-bootvar-xen)
